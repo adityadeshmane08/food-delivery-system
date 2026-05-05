@@ -20,10 +20,10 @@ FOREIGN KEY (Admin_id) REFERENCES Admin(Admin_id)
 );
 
 INSERT INTO customer VALUES 
-(101,'Harsh','Mehta','harsh@123','7435068222','1st Cross,Rammurthy nagar,Bangalore','harsh19@gmail.com',1),
-(102,'Jainam','Shah','Jainu@123','9924567892','117, Examiner Road, Fort,Mumbai, Maharashtra','1ainam33@gmail.com1',1),
-(103,'Aman','Pandya','Aman@123','7834578923','L 69 Sector 11,Delhi,Uttar Pradesh- 201301','aman@gmail.com',1),
-(104,'Heer','Madia','Her@123','8902345789','Bee H-138, Kodambakkam Road,Chennai, Tamil Nadu','heer1723@gmail.com',1),
+(101,'Aditya','D','@123','7435068222','1st Cross,Rammurthy nagar,Bangalore','harsh19@gmail.com',1),
+(102,'Vedant','K','@123','9924567892','117, Examiner Road, Fort,Mumbai, Maharashtra','1ainam33@gmail.com1',1),
+(103,'Pravin','G','@123','7834578923','L 69 Sector 11,Delhi,Uttar Pradesh- 201301','aman@gmail.com',1),
+(104,'Athrva','K','Her@123','8902345789','Bee H-138, Kodambakkam Road,Chennai, Tamil Nadu','heer1723@gmail.com',1),
 (105,'Akanksha','Yadav','Akayad@123','9934654001','295 AjRoad:10, West Hydrebad, Andhra Pradesh','akuu@gmail.com',1),
 (106,'Karan','Punjabi','karpun@123','9934688001','Nirmal House Opp Jain Mandir,Jalandhar,Punjab','karan12@gmail.com',1),
 (107,'Divya','Mulchandanr','divmul@123','9874688001','A/3, Tejpal Indl Estate,Andheri (west),Maharashtra','div3421@gmail.com',1),
